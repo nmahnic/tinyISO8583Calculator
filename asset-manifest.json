@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nmahnic/tinyISO8583Calculator/static/css/main.a9efd828.chunk.css",
+    "main.js": "/nmahnic/tinyISO8583Calculator/static/js/main.7a21410c.chunk.js",
+    "main.js.map": "/nmahnic/tinyISO8583Calculator/static/js/main.7a21410c.chunk.js.map",
+    "runtime-main.js": "/nmahnic/tinyISO8583Calculator/static/js/runtime-main.15b21bce.js",
+    "runtime-main.js.map": "/nmahnic/tinyISO8583Calculator/static/js/runtime-main.15b21bce.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/nmahnic/tinyISO8583Calculator/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c05792f5.chunk.js": "/nmahnic/tinyISO8583Calculator/static/js/2.c05792f5.chunk.js",
+    "static/js/2.c05792f5.chunk.js.map": "/nmahnic/tinyISO8583Calculator/static/js/2.c05792f5.chunk.js.map",
+    "index.html": "/nmahnic/tinyISO8583Calculator/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/nmahnic/tinyISO8583Calculator/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a9efd828.chunk.css.map": "/nmahnic/tinyISO8583Calculator/static/css/main.a9efd828.chunk.css.map",
+    "static/js/2.c05792f5.chunk.js.LICENSE.txt": "/nmahnic/tinyISO8583Calculator/static/js/2.c05792f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15b21bce.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c05792f5.chunk.js",
+    "static/css/main.a9efd828.chunk.css",
+    "static/js/main.7a21410c.chunk.js"
+  ]
+}
